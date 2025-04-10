@@ -1,0 +1,6 @@
+SDLC is good
+Linux 
+Git is a DVCS
+AWS
+Scripting
+ec2
