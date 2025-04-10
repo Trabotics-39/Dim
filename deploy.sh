@@ -3,3 +3,5 @@ deployment must be reviewed
 deployment must be reviewed by managers
 healthy managers
 AWS Code deploy is a great tool
+SDLC is great
+
